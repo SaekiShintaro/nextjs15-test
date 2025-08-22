@@ -8,12 +8,14 @@ Need to install the following packages:
 create-next-app@15.4.3
 Ok to proceed? (y) y
 
+```txt
 √ Would you like to use ESLint? ... Yes
 √ Would you like to use Tailwind CSS? ... Yes
 √ Would you like your code inside a `src/` directory? ... Yes
 √ Would you like to use App Router? (recommended) ... Yes
 √ Would you like to use Turbopack for `next dev`? ... No
 √ Would you like to customize the import alias (`@/*` by default)? ... No
+```
 
 Azure Static Web Apps 用の設定。
 <https://learn.microsoft.com/ja-jp/azure/static-web-apps/deploy-nextjs-hybrid>
